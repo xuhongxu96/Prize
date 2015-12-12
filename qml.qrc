@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>bk.png</file>
+        <file>play.png</file>
+        <file>play_pressed.png</file>
+        <file>stop_pressed.png</file>
+        <file>stop.png</file>
+    </qresource>
+</RCC>
